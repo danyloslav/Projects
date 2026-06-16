@@ -62,16 +62,14 @@ project/
 pip install pandas matplotlib numpy openpyxl
 ```
 
-2. Place `owid-energy-data.csv` in the project folder
-
-3. Run the main script:
+2. Run the main script:
 ```bash
 python3 projct.py
 ```
 
-4. Enter at least 5 countries and a year range of at least 5 years when prompted
+3. Enter at least 5 countries and a year range of at least 5 years when prompted
 
-5. Open `energy_data.xlsx` for the full report
+4. Open `energy_data.xlsx` for the full report
 
 ---
 
